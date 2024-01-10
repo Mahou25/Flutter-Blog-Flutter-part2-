@@ -30,7 +30,7 @@ tasks.register("clean", Delete) {
 
 android {
     namespace "com.example.blog"
-    compileSdkVersion flutter.compileSdkVersion
+    compileSdkVersion 34
     ndkVersion flutter.ndkVersion
 
     compileOptions {
